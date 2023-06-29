@@ -1,4 +1,4 @@
-![avatar](/img/avatar.jpg)
+![avatar](avatar.jpg)
 #Vitali Zabairachny
 ##_junior data analyst, sales and project manager_
 - email@email.com - linkedin.com - +375290000000 -
