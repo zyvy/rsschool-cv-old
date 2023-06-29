@@ -17,8 +17,8 @@ Python and SQL. I love to learn new things, and always try to improve my skills
 I am convinced that combining and applying these skills is what actually makes me valuable both as a manager and as a team
 player.
  
-WORK EXPERIENCE
-## **Project manager
+## __WORK EXPERIENCE__
+## Project manager
 ## Worst Company Ever LLC
 2018-
 * Sales and project management
@@ -28,7 +28,7 @@ WORK EXPERIENCE
 * Sales and finance planning
 * Working with debit loans and payments
  
-## **Sales manager
+## Sales manager
 ## Another Worst Company Ever LLC
 2012-2018
 * Sales and project management
