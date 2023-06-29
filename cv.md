@@ -18,8 +18,8 @@ I am convinced that combining and applying these skills is what actually makes m
 player.
  
 ## __WORK EXPERIENCE__
-#### Project manager
-#### Worst Company Ever LLC
+### Project manager
+### Worst Company Ever LLC
 2018-
 * Sales and project management
 * Build and maintain strong relationships with key customers, partners, stakeholders
@@ -29,7 +29,7 @@ player.
 * Working with debit loans and payments
  
 ### Sales manager
-#### Another Worst Company Ever LLC
+### Another Worst Company Ever LLC
 2012-2018
 * Sales and project management
 * Build and maintain strong relationships with key customers, partners, stakeholders
