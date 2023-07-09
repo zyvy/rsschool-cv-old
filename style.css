@@ -1,1 +1,61 @@
+.center {
+    margin: 0 10% 0;
+    padding: 0;
+    width: 80%;
+    float: left;
+  }
 
+  .centernav {
+    margin: 0 10% 0;
+    padding: 0;
+    width: 80%;
+  }
+
+.line {
+    margin: 0 0 0 0;
+    background-color: #EADF51;
+    width: 100%;
+    height: 20px;
+}
+.navdiv {
+    width: 25%;
+    margin: auto;
+    padding: 0;
+    border: 0;
+    float: left;
+    background-color: #EADF51;
+    font-family: monospace, monospace;
+    text-align: center;
+    vertical-align: middle;
+}
+.leftdiv {
+    width: 10%;
+    margin: 10px 10% 0px;
+    padding: 0;
+    border: 0;
+    float: left;
+    font-family: monospace, monospace;
+    text-align: center;
+    vertical-align: middle;
+}
+.rightdiv {
+    width: 55%;
+    height: 128px;
+    margin: 10px auto;
+    padding: 0;
+    border: 0;
+    float: left;
+    font-family: monospace, monospace;
+    text-align: left;
+    vertical-align: middle;
+}
+.photodiv {
+    background-size: cover;
+    object-fit: cover;
+    width: 128px;
+    height: 128px;
+    background-position: top center;
+    border-radius: 50%;
+}
+h1 { font-size: 90%; }
+h2 { font-size: 90%; }
