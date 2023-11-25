@@ -1,4 +1,4 @@
-![avatar](avatar.jpg) 
+![avatar](me.jpg) 
 
 
 # Vitali Zabairachny
